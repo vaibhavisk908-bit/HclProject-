@@ -1,0 +1,121 @@
+order_id,order_date,customer_name,food_item,category,quantity,unit_price,total_amount,payment_method,order_status,table_number
+R001,2026-01-01,Diya,Chocolate Brownie,Dessert,3,129,387,UPI,Completed,14
+R002,2026-01-02,Anaya,White Sauce Pasta,Pasta,5,229,1145,Cash,Completed,9
+R003,2026-01-03,Meera,Red Sauce Pasta,Pasta,1,199,199,Net Banking,Cancelled,1
+R004,2026-01-04,Sara,Farmhouse Pizza,Pizza,1,349,349,Credit Card,Completed,17
+R005,2026-01-05,Anaya,Cold Coffee,Beverage,4,119,476,UPI,Completed,2
+R006,2026-01-06,Kabir,Idli Sambhar,South Indian,3,89,267,Net Banking,Completed,12
+R007,2026-01-07,Myra,Idli Sambhar,South Indian,3,89,267,Debit Card,Completed,19
+R008,2026-01-08,Kabir,Farmhouse Pizza,Pizza,4,349,1396,Credit Card,Cancelled,6
+R009,2026-01-09,Vivaan,Veg Burger,Burger,2,129,258,Debit Card,Completed,19
+R010,2026-01-10,Diya,Farmhouse Pizza,Pizza,1,349,349,Credit Card,Completed,19
+R011,2026-02-01,Ishaan,Paneer Wrap,Wrap,5,159,795,Net Banking,Completed,4
+R012,2026-02-02,Vivaan,Veg Sandwich,Sandwich,3,99,297,Debit Card,Cancelled,18
+R013,2026-02-03,Kabir,Cheese Burger,Burger,3,179,537,UPI,Completed,16
+R014,2026-02-04,Vivaan,Cheese Burger,Burger,3,179,537,Cash,Completed,13
+R015,2026-02-05,Aarav,Veg Burger,Burger,4,129,516,UPI,Cancelled,13
+R016,2026-02-06,Meera,Margherita Pizza,Pizza,2,249,498,UPI,Completed,2
+R017,2026-02-07,Diya,Masala Dosa,South Indian,4,149,596,Debit Card,Completed,13
+R018,2026-02-08,Aarav,Red Sauce Pasta,Pasta,2,199,398,UPI,Completed,15
+R019,2026-02-09,Sara,Masala Dosa,South Indian,2,149,298,Debit Card,Completed,3
+R020,2026-02-10,Vivaan,Farmhouse Pizza,Pizza,5,349,1745,Cash,Completed,9
+R021,2026-03-01,Kabir,Farmhouse Pizza,Pizza,4,349,1396,UPI,Cancelled,11
+R022,2026-03-02,Kabir,Cold Coffee,Beverage,4,119,476,Net Banking,Cancelled,3
+R023,2026-03-03,Vivaan,Fresh Lime Soda,Beverage,2,79,158,Debit Card,Cancelled,14
+R024,2026-03-04,Myra,Paneer Wrap,Wrap,5,159,795,Net Banking,Completed,10
+R025,2026-03-05,Kabir,Farmhouse Pizza,Pizza,1,349,349,Debit Card,Cancelled,8
+R026,2026-03-06,Anaya,Veg Burger,Burger,1,129,129,Net Banking,Completed,8
+R027,2026-03-07,Sara,Masala Dosa,South Indian,4,149,596,Debit Card,Completed,11
+R028,2026-03-08,Kabir,White Sauce Pasta,Pasta,1,229,229,Credit Card,Completed,1
+R029,2026-03-09,Rohan,Veg Burger,Burger,4,129,516,UPI,Cancelled,9
+R030,2026-03-10,Vivaan,Red Sauce Pasta,Pasta,5,199,995,Net Banking,Completed,17
+R031,2026-04-01,Ishaan,Masala Dosa,South Indian,3,149,447,UPI,Completed,2
+R032,2026-04-02,Rohan,Gulab Jamun,Dessert,4,69,276,UPI,Cancelled,20
+R033,2026-04-03,Anaya,White Sauce Pasta,Pasta,3,229,687,Credit Card,Completed,10
+R034,2026-04-04,Kabir,Paneer Wrap,Wrap,3,159,477,Credit Card,Completed,14
+R035,2026-04-05,Vivaan,Gulab Jamun,Dessert,4,69,276,Debit Card,Completed,3
+R036,2026-04-06,Ishaan,White Sauce Pasta,Pasta,2,229,458,Cash,Completed,4
+R037,2026-04-07,Diya,Idli Sambhar,South Indian,4,89,356,Debit Card,Cancelled,1
+R038,2026-04-08,Ishaan,Gulab Jamun,Dessert,1,69,69,UPI,Completed,19
+R039,2026-04-09,Aarav,Cold Coffee,Beverage,4,119,476,Credit Card,Completed,9
+R040,2026-04-10,Myra,Cheese Burger,Burger,3,179,537,Cash,Completed,6
+R041,2026-05-01,Rohan,Fresh Lime Soda,Beverage,5,79,395,Net Banking,Completed,10
+R042,2026-05-02,Myra,Farmhouse Pizza,Pizza,5,349,1745,Cash,Completed,4
+R043,2026-05-03,Aarav,Fresh Lime Soda,Beverage,2,79,158,Cash,Completed,10
+R044,2026-05-04,Myra,Red Sauce Pasta,Pasta,3,199,597,UPI,Completed,20
+R045,2026-05-05,Diya,Chocolate Brownie,Dessert,5,129,645,Debit Card,Completed,5
+R046,2026-05-06,Kabir,Veg Sandwich,Sandwich,1,99,99,Cash,Completed,14
+R047,2026-05-07,Meera,Veg Sandwich,Sandwich,5,99,495,Net Banking,Cancelled,12
+R048,2026-05-08,Vivaan,Masala Dosa,South Indian,2,149,298,Debit Card,Cancelled,5
+R049,2026-05-09,Ishaan,Veg Sandwich,Sandwich,4,99,396,UPI,Cancelled,13
+R050,2026-05-10,Vivaan,Veg Sandwich,Sandwich,2,99,198,Cash,Completed,11
+R051,2026-06-01,Aarav,White Sauce Pasta,Pasta,4,229,916,UPI,Completed,14
+R052,2026-06-02,Myra,Red Sauce Pasta,Pasta,2,199,398,Credit Card,Completed,8
+R053,2026-06-03,Ishaan,Veg Sandwich,Sandwich,1,99,99,Credit Card,Completed,13
+R054,2026-06-04,Myra,Gulab Jamun,Dessert,3,69,207,Credit Card,Completed,18
+R055,2026-06-05,Myra,Idli Sambhar,South Indian,4,89,356,Cash,Cancelled,7
+R056,2026-06-06,Diya,Cold Coffee,Beverage,4,119,476,Credit Card,Completed,13
+R057,2026-06-07,Ishaan,Cold Coffee,Beverage,4,119,476,UPI,Completed,14
+R058,2026-06-08,Ishaan,White Sauce Pasta,Pasta,3,229,687,Cash,Completed,20
+R059,2026-06-09,Vivaan,Farmhouse Pizza,Pizza,5,349,1745,Credit Card,Completed,3
+R060,2026-06-10,Kabir,White Sauce Pasta,Pasta,4,229,916,Debit Card,Completed,20
+R061,2026-07-01,Myra,Margherita Pizza,Pizza,5,249,1245,Cash,Completed,12
+R062,2026-07-02,Ishaan,Chocolate Brownie,Dessert,3,129,387,Debit Card,Cancelled,16
+R063,2026-07-03,Ishaan,Masala Dosa,South Indian,5,149,745,Debit Card,Completed,8
+R064,2026-07-04,Vivaan,Chocolate Brownie,Dessert,5,129,645,Cash,Completed,5
+R065,2026-07-05,Ishaan,Cold Coffee,Beverage,1,119,119,Debit Card,Completed,19
+R066,2026-07-06,Aarav,Farmhouse Pizza,Pizza,1,349,349,Credit Card,Completed,17
+R067,2026-07-07,Vivaan,Paneer Wrap,Wrap,3,159,477,Net Banking,Cancelled,1
+R068,2026-07-08,Kabir,Cheese Burger,Burger,1,179,179,Cash,Completed,16
+R069,2026-07-09,Ishaan,Margherita Pizza,Pizza,2,249,498,UPI,Cancelled,2
+R070,2026-07-10,Rohan,Idli Sambhar,South Indian,5,89,445,UPI,Completed,5
+R071,2026-08-01,Anaya,Veg Burger,Burger,1,129,129,Net Banking,Cancelled,1
+R072,2026-08-02,Diya,Gulab Jamun,Dessert,4,69,276,Credit Card,Completed,10
+R073,2026-08-03,Aarav,Cold Coffee,Beverage,5,119,595,Cash,Completed,10
+R074,2026-08-04,Kabir,Chocolate Brownie,Dessert,1,129,129,Cash,Completed,19
+R075,2026-08-05,Myra,Cold Coffee,Beverage,1,119,119,Credit Card,Completed,6
+R076,2026-08-06,Myra,Masala Dosa,South Indian,5,149,745,Net Banking,Completed,3
+R077,2026-08-07,Diya,Paneer Wrap,Wrap,5,159,795,Net Banking,Completed,4
+R078,2026-08-08,Anaya,Masala Dosa,South Indian,4,149,596,UPI,Completed,17
+R079,2026-08-09,Diya,White Sauce Pasta,Pasta,3,229,687,Cash,Completed,12
+R080,2026-08-10,Sara,Cold Coffee,Beverage,4,119,476,Cash,Completed,18
+R081,2026-09-01,Anaya,Masala Dosa,South Indian,2,149,298,UPI,Completed,5
+R082,2026-09-02,Diya,Fresh Lime Soda,Beverage,2,79,158,Net Banking,Completed,2
+R083,2026-09-03,Sara,Chocolate Brownie,Dessert,1,129,129,UPI,Completed,9
+R084,2026-09-04,Sara,Veg Sandwich,Sandwich,2,99,198,Debit Card,Completed,3
+R085,2026-09-05,Sara,Chocolate Brownie,Dessert,4,129,516,UPI,Cancelled,18
+R086,2026-09-06,Rohan,Cold Coffee,Beverage,4,119,476,UPI,Completed,19
+R087,2026-09-07,Aarav,Cold Coffee,Beverage,1,119,119,UPI,Completed,5
+R088,2026-09-08,Rohan,Farmhouse Pizza,Pizza,3,349,1047,Cash,Cancelled,10
+R089,2026-09-09,Ishaan,Veg Burger,Burger,5,129,645,Net Banking,Cancelled,6
+R090,2026-09-10,Rohan,Idli Sambhar,South Indian,3,89,267,Debit Card,Completed,1
+R091,2026-10-01,Vivaan,Veg Sandwich,Sandwich,3,99,297,UPI,Cancelled,16
+R092,2026-10-02,Rohan,Veg Sandwich,Sandwich,1,99,99,UPI,Completed,6
+R093,2026-10-03,Myra,Farmhouse Pizza,Pizza,1,349,349,Net Banking,Completed,12
+R094,2026-10-04,Myra,White Sauce Pasta,Pasta,2,229,458,UPI,Completed,9
+R095,2026-10-05,Kabir,Cheese Burger,Burger,2,179,358,Net Banking,Completed,16
+R096,2026-10-06,Rohan,Fresh Lime Soda,Beverage,3,79,237,Debit Card,Completed,18
+R097,2026-10-07,Rohan,Cheese Burger,Burger,5,179,895,UPI,Cancelled,11
+R098,2026-10-08,Diya,Idli Sambhar,South Indian,1,89,89,UPI,Completed,4
+R099,2026-10-09,Rohan,Veg Burger,Burger,1,129,129,Debit Card,Completed,12
+R100,2026-10-10,Anaya,Veg Burger,Burger,1,129,129,Debit Card,Completed,19
+R101,2026-11-01,Myra,Gulab Jamun,Dessert,4,69,276,Cash,Cancelled,20
+R102,2026-11-02,Ishaan,Fresh Lime Soda,Beverage,5,79,395,Net Banking,Completed,6
+R103,2026-11-03,Sara,Fresh Lime Soda,Beverage,1,79,79,Net Banking,Cancelled,2
+R104,2026-11-04,Aarav,Veg Burger,Burger,4,129,516,Debit Card,Cancelled,8
+R105,2026-11-05,Meera,Masala Dosa,South Indian,2,149,298,UPI,Completed,19
+R106,2026-11-06,Ishaan,Cheese Burger,Burger,1,179,179,Credit Card,Completed,9
+R107,2026-11-07,Vivaan,Paneer Wrap,Wrap,4,159,636,Credit Card,Completed,20
+R108,2026-11-08,Meera,White Sauce Pasta,Pasta,4,229,916,UPI,Completed,13
+R109,2026-11-09,Diya,Margherita Pizza,Pizza,4,249,996,Debit Card,Completed,9
+R110,2026-11-10,Meera,Gulab Jamun,Dessert,2,69,138,Cash,Completed,10
+R111,2026-12-01,Rohan,Masala Dosa,South Indian,2,149,298,UPI,Completed,14
+R112,2026-12-02,Aarav,Cheese Burger,Burger,2,179,358,Net Banking,Completed,3
+R113,2026-12-03,Aarav,Fresh Lime Soda,Beverage,1,79,79,Cash,Completed,2
+R114,2026-12-04,Aarav,Fresh Lime Soda,Beverage,5,79,395,Net Banking,Cancelled,11
+R115,2026-12-05,Diya,Idli Sambhar,South Indian,4,89,356,Cash,Completed,2
+R116,2026-12-06,Aarav,Chocolate Brownie,Dessert,2,129,258,UPI,Completed,7
+R117,2026-12-07,Meera,Farmhouse Pizza,Pizza,1,349,349,Cash,Completed,15
+R118,2026-12-08,Sara,Masala Dosa,South Indian,3,149,447,Credit Card,Completed,2
+R119,2026-12-09,Aarav,Masala Dosa,South Indian,2,149,298,Debit Card,Cancelled,1
+R120,2026-12-10,Meera,Idli Sambhar,South Indian,4,89,356,Debit Card,Completed,11
